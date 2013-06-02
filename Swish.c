@@ -22,7 +22,7 @@
 #define space 32
 #define delete 127
 
-//Ahmad Zaraei
+//Ahmad Zaraei, done!
 
 struct argument {
     char * name;
